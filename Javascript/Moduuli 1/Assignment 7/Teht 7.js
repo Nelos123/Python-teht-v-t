@@ -9,3 +9,4 @@ for (let i = 0; i < rolls; i++) {
 }
 
 document.body.innerHTML += `<p>Sum of ${rolls} dice rolls is ${total}.</p>`;
+.

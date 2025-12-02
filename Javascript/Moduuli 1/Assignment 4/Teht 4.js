@@ -15,3 +15,4 @@ if (randomNumber === 1) {
 }
 
 document.body.innerHTML += `<p>${studentName}, you are ${house}.</p>`;
+.

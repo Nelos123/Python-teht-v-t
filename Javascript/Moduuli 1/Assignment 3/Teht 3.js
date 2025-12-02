@@ -12,3 +12,4 @@ document.body.innerHTML += `
   <p>Product: ${product}</p>
   <p>Average: ${average}</p>
 `;
+.

@@ -19,3 +19,4 @@ if (isPrime) {
 } else {
   document.body.innerHTML += `<p>${n} is not a prime number.</p>`;
 }
+.

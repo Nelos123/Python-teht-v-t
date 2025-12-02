@@ -22,3 +22,4 @@ for (let t = 0; t < trials; t++) {
 const probability = (successCount / trials) * 100;
 
 document.body.innerHTML += `<p>Probability to get sum ${desiredSum} with ${diceCount} dice is ${probability.toFixed(2)}%.</p>`;
+ .

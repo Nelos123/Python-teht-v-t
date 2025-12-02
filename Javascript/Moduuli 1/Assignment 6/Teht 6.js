@@ -11,5 +11,4 @@ if (doCalc) {
     document.body.innerHTML += `<p>The square root of ${num} is ${root}.</p>`;
   }
 } else {
-  document.body.innerHTML += '<p>The square root is not calculated.</p>';
-}
+  document.body.innerHTML += '<p>The square root is not calculated.</p>';}

@@ -20,3 +20,4 @@ if (isLeap) {
 } else {
   document.body.innerHTML += `<p>${year} is not a leap year.</p>`;
 }
+.
